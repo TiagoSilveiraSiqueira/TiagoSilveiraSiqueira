@@ -11,6 +11,7 @@ Meu interesse é transformar conhecimento em algo que outra pessoa consiga usar:
 | Se você quer… | Explore | O que você encontra |
 | --- | --- | --- |
 | Executar um exemplo | [Azure + IA: laboratório de operações](https://github.com/TiagoSilveiraSiqueira/azure-ai-operations-lab) | Triagem com dados fictícios: demonstração em Python e opção com modelo local |
+| Aprender com incidentes reais | [Casos públicos de operações](https://github.com/TiagoSilveiraSiqueira/azure-ai-operations-lab/blob/main/docs/casos-publicos.md) | Fatos de análises oficiais da Cloudflare e do GitHub, com fontes e limites |
 | Reutilizar instruções | [Skills para times de TI](https://github.com/TiagoSilveiraSiqueira/skills-para-times-de-ti) | Runbooks, triagem de incidentes e onboarding técnico |
 | Avaliar respostas | [Engenharia de prompts na prática](https://github.com/TiagoSilveiraSiqueira/engenharia-de-prompts-na-pratica) | Estudos com prompts, saídas ilustrativas e critérios de avaliação |
 
@@ -37,7 +38,7 @@ Esses estudos complementam o trabalho com agentes e documentação:
 
 **Conhecimento compartilhado.** Usar exemplos em português para facilitar o início de quem está entrando em cloud e IA aplicada.
 
-Os exemplos publicados nestes projetos usam dados fictícios. As demonstrações distinguem o que foi executado do que é ilustrativo e deixam explícitos seus limites.
+Os projetos combinam exemplos didáticos identificados e estudos de incidentes reais documentados em fontes públicas. Os relatos não representam experiência pessoal nos incidentes. As demonstrações distinguem o que foi executado do que é ilustrativo e deixam explícitos seus limites.
 
 ## Áreas de interesse
 
