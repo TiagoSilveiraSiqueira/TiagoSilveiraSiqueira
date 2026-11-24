@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Tiago Silveira Siqueira</title>
+  <desc id="banner-desc">Banner azul escuro com detalhes em teal. Supervisão de TI, IA aplicada e Cloud. Aprender, documentar e compartilhar.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081421" />
+      <stop offset="0.6" stop-color="#0c2134" />
+      <stop offset="1" stop-color="#103443" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56dfcf" />
+      <stop offset="1" stop-color="#6eafff" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#83b5ca" opacity="0.12" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="22" fill="url(#background)" />
+  <rect x="780" y="0" width="420" height="360" rx="22" fill="url(#grid)" />
+  <path d="M808 0 L712 360" stroke="#b7e5ed" stroke-width="1" opacity="0.05" />
+  <circle cx="1057" cy="184" r="154" fill="#52d7c8" opacity="0.025" />
+  <circle cx="1057" cy="184" r="119" fill="none" stroke="#80c5d9" stroke-width="1" opacity="0.12" />
+  <circle cx="1057" cy="184" r="82" fill="none" stroke="#80c5d9" stroke-width="1" opacity="0.08" />
+
+  <rect x="66" y="58" width="5" height="23" rx="2.5" fill="#56dfcf" />
+  <text x="85" y="75" fill="#8eb7c7" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.3">TECNOLOGIA COM CLAREZA</text>
+  <text x="64" y="149" fill="#f2f8ff" font-family="Segoe UI, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-0.8">Tiago Silveira Siqueira</text>
+  <text x="67" y="196" fill="#bad0e2" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Supervisão de TI · IA aplicada · Cloud</text>
+  <rect x="67" y="229" width="354" height="3" rx="1.5" fill="url(#accent)" />
+  <text x="67" y="286" fill="#8eb7c7" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400">Aprender. Documentar. Compartilhar.</text>
+
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M953 211 H1095 C1115 211 1130 195 1130 176 C1130 156 1116 141 1097 139 C1091 111 1066 93 1039 96 C1012 98 990 116 983 141 C968 132 947 133 932 147 C918 161 916 182 928 195 C935 205 944 211 953 211 Z" stroke-width="2.5" opacity="0.85" />
+    <path d="M954 210 V243 H912 V273" stroke-width="1.5" opacity="0.6" />
+    <path d="M1030 211 V266" stroke-width="1.5" opacity="0.6" />
+    <path d="M1100 210 V241 H1143 V263" stroke-width="1.5" opacity="0.6" />
+    <path d="M1029 137 L993 170 L1030 193 L1067 166 Z" stroke-width="1.5" opacity="0.8" />
+    <path d="M993 170 H1067 M1029 137 V193" stroke-width="1" opacity="0.45" />
+    <circle cx="912" cy="279" r="6" stroke-width="1.5" opacity="0.85" />
+    <circle cx="1030" cy="273" r="6" stroke-width="1.5" opacity="0.85" />
+    <circle cx="1143" cy="269" r="6" stroke-width="1.5" opacity="0.85" />
+  </g>
+  <g fill="#64daca">
+    <circle cx="1029" cy="137" r="4" />
+    <circle cx="993" cy="170" r="4" />
+    <circle cx="1030" cy="193" r="4" />
+    <circle cx="1067" cy="166" r="4" />
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="21.5" fill="none" stroke="#9fc9dd" stroke-opacity="0.1" />
+</svg>
