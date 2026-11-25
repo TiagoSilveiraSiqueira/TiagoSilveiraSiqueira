@@ -8,9 +8,14 @@ Meu interesse é transformar conhecimento em algo que outra pessoa consiga usar:
 
 ## Comece por aqui
 
+Explore a [trilha pública de IA aplicada e Cloud](https://github.com/TiagoSilveiraSiqueira/ia-cloud-learning-hub): quatro semanas de prática, dois workshops e entregas que outra pessoa consegue revisar.
+
 | Se você quer… | Explore | O que você encontra |
 | --- | --- | --- |
 | Executar um exemplo | [Azure + IA: laboratório de operações](https://github.com/TiagoSilveiraSiqueira/azure-ai-operations-lab) | Triagem com dados fictícios: demonstração em Python e opção com modelo local |
+| Buscar informação em documentos | [RAG Runbooks Lab](https://github.com/TiagoSilveiraSiqueira/rag-runbooks-lab) | Recuperação local, fragmentos citados e limites da resposta |
+| Conferir respostas estruturadas | [AI Evaluation Lab](https://github.com/TiagoSilveiraSiqueira/ai-evaluation-lab) | Casos, contratos de saída e avaliações reproduzíveis |
+| Comparar custos cloud | [Cloud FinOps Toolkit](https://github.com/TiagoSilveiraSiqueira/cloud-finops-toolkit) | Preços públicos Azure, premissas de uso e cálculo local |
 | Aprender com incidentes reais | [Casos públicos de operações](https://github.com/TiagoSilveiraSiqueira/azure-ai-operations-lab/blob/main/docs/casos-publicos.md) | Fatos de análises oficiais da Cloudflare e do GitHub, com fontes e limites |
 | Reutilizar instruções | [Skills para times de TI](https://github.com/TiagoSilveiraSiqueira/skills-para-times-de-ti) | Runbooks, triagem de incidentes e onboarding técnico |
 | Avaliar respostas | [Engenharia de prompts na prática](https://github.com/TiagoSilveiraSiqueira/engenharia-de-prompts-na-pratica) | Estudos com prompts, saídas ilustrativas e critérios de avaliação |
@@ -20,6 +25,7 @@ Meu interesse é transformar conhecimento em algo que outra pessoa consiga usar:
 1. Rode o modo `demo` do laboratório de operações. Ele funciona com dados sintéticos e regras, sem precisar de um modelo ou de uma conta cloud.
 2. Escolha uma skill e experimente suas instruções com um cenário fictício.
 3. Compare dois prompts usando a rubrica dos estudos. Confira os fatos e registre o que a resposta realmente mostrou.
+4. Siga a trilha do Learning Hub para praticar recuperação de fontes, avaliação de respostas e estimativas de custo.
 
 ## Infraestrutura e Azure
 
@@ -42,7 +48,7 @@ Os projetos combinam exemplos didáticos identificados e estudos de incidentes r
 
 ## Áreas de interesse
 
-Supervisão de TI · Infraestrutura e operações · Microsoft Azure · Observabilidade · Agentes de IA · Skills · Engenharia de prompts
+Supervisão de TI · Infraestrutura e operações · Microsoft Azure · Observabilidade · Agentes de IA · RAG · Avaliação de respostas · FinOps · Skills · Engenharia de prompts
 
 Contribuições com correções, dúvidas e novos exemplos são bem-vindas nos repositórios. Uma boa pergunta também ajuda a melhorar a documentação.
 
